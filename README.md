@@ -4,9 +4,12 @@ This application is used to track the movements of specific animals within a US 
 Follow instructions to set up your AWS Cloud9 IDE and walk through the tutorials: https://docs.aws.amazon.com/cloud9/latest/user-guide/create-environment-main.html
 
 Clone the GitHub repository.
+
 Follow the instructions to set up a Java application with this tutorial: https://docs.aws.amazon.com/cloud9/latest/user-guide/sample-java.html 
+
 Choose Gradle as the build tool
 -- NOTE: Due to deprecation, the build.gradle script in the tutorial must be modified as follows:
+
    ORIGINAL:
    
     dependencies {
